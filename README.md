@@ -1,4 +1,4 @@
-### Hi there 👋
+### About me 🌱
 
 <!--
 **YeechouTang/YeechouTang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+
+I'm an Operating System Engineer working at OS Kernel Lab, Huawei.
