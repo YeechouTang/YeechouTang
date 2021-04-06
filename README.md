@@ -18,3 +18,9 @@ Here are some ideas to get you started:
 ---
 
 I'm an Operating System Engineer working at OS Kernel Lab, Huawei.
+
+My contributions for Linux kernel:`git log --author="Tang Yizhou"`
+
+My works in Huawei:
+
+[Share pool](https://gitee.com/openeuler/kernel/blob/kernel-4.19/mm/share_pool.c), a share memory scheme with unified addressing. Supervised by Li Zefan and Ding Tianhong.
