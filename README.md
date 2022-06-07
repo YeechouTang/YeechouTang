@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ---
 
-I'm an Operating System Engineer working at OS Kernel Lab, Huawei.
+I'm an Operating System Engineer working at OS Shopee Singapore.
 
 My contributions for Linux kernel:`git log --author="Tang Yizhou"`
 
