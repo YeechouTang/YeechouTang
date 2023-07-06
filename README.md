@@ -22,4 +22,4 @@ I'm an Operating System Engineer working at Shopee Singapore.
 My contributions for Linux kernel:`git log --author="Tang Yizhou"`
 
 My previous works:
-[Share pool](https://gitee.com/openeuler/kernel/blob/kernel-4.19/mm/share_pool.c), a share memory scheme with unified addressing. Supervised by Li Zefan and Ding Tianhong.
+[Share pool](https://gitee.com/openeuler/kernel/blob/openEuler-22.03-LTS/mm/share_pool.c), a share memory scheme with unified addressing. Supervised by Li Zefan and Ding Tianhong.
